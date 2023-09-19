@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "46faf5d2-8d82-9e28-3de5-729273c044fd",
+  "instructors": {
+    "content": [
+      "95cf5c21-4826-165c-f0aa-fa88861e5232"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9b579446-7907-5203-60c1-e6fea0b39e1f",
+    "website": "6-876j-advanced-topics-in-cryptography-spring-2003"
+  },
+  "course_title": "Advanced Topics in Cryptography",
+  "course_description": "The topics covered in this course include interactive proofs, zero-knowledge proofs, zero-knowledge proofs of knowledge, non-interactive zero-knowledge proofs, secure protocols, two-party secure computation, multiparty secure computation, and chosen-ciphertext security.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.426J",
+  "primary_course_number": "6.876J",
+  "course_image_thumbnail": {
+    "content": "a3a49db5-f0b4-695f-3a0b-76a577a35dd0",
+    "website": "6-876j-advanced-topics-in-cryptography-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "be6b0958-f661-4f21-bc0c-a44c502de1a4",
+  "site_short_id": "6.876j-spring-2003",
+  "title": "Course Metadata"
+}
